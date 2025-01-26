@@ -1,4 +1,4 @@
-# Updated Producer Script
+# Imports
 import csv
 from google.cloud import pubsub_v1
 import glob
